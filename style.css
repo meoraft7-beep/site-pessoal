@@ -14,7 +14,7 @@ body {
 /* HERO */
 .hero {
   background: linear-gradient(135deg, #1e1e2f, #2c2c54);
-  color: #fff;
+  color: white;
   text-align: center;
   padding: 80px 20px;
 }
@@ -92,5 +92,6 @@ footer {
   background: #111;
   color: #fff;
 }
+
 
 
